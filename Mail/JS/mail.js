@@ -1,3 +1,9 @@
-const ciao =('ciao1')
+//lista email
+const emailList = ["a@email.com","b@email.com","c@email.com","d@email.com","e@email.com"]
 
-console.log(ciao)
+//richiesta utente
+const userEmail = prompt("inserisci la tua email")
+
+
+
+
